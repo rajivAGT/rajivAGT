@@ -1,4 +1,4 @@
-# Hello World! I'm Rajiv 👨‍💻
+# Hello World! I'm Rajeev Singh 👨‍💻
 
 ### 💻 Tech Stack
 **Backend Mastery**  
